@@ -19,9 +19,7 @@ library(ggrepel)
 
 \#\#Exercises
 
-\`1.52519
-
-(4 points)
+\`1.52519 variables : 7 (4 points)
 
 Write your narrative here
 

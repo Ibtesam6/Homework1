@@ -25,7 +25,7 @@ library(ggrepel)
 ##Exercises
 
 `1.52519
-
+variables : 7
 (4 points)
 ```{r}
 
