@@ -1,10 +1,9 @@
 Homework \#1 – Pet Names Dataset
 ================
-Musab Isah
+Ibtesam Faleh
+2021-02-14
 
-2021-02-05
-
-**Student ID:insert ID here**
+**Student ID:2201002692**
 
 **Deadline:** 23:59 on Saturday, 13 February 2021
 
@@ -20,7 +19,7 @@ library(ggrepel)
 
 \#\#Exercises
 
-\`1.
+\`1.52519
 
 (4 points)
 
